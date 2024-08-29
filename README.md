@@ -1,2 +1,2 @@
-# Owner-avatar-Desafio-Sistema-de-Gestion-de-Biblioteca-II
-Owner avatar Desafio-Sistema-de-Gestion-de-Biblioteca-II TD
+Sistema-de-Gestion-de-Biblioteca-II
+Sistema-de-Gestion-de-Biblioteca-II TD
