@@ -1,0 +1,6 @@
+cl\praxis\GestionBiblioteca\model\dto\Book.class
+cl\praxis\GestionBiblioteca\service\BookServiceImpl.class
+cl\praxis\GestionBiblioteca\controller\BookController.class
+cl\praxis\GestionBiblioteca\GestionBibliotecaApplication.class
+cl\praxis\GestionBiblioteca\service\BookService.class
+cl\praxis\GestionBiblioteca\ServletInitializer.class
